@@ -1,0 +1,69 @@
+.bg {
+    background-color: black;
+    color: #fff;
+}
+
+ul {
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    color: #fff;
+}
+
+marquee {
+    color: #fff;
+}
+
+.mail {
+    color: #fff;
+    text-align: center;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar-Text li {
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar-Text ul {
+    display: inline;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+.col-md-4 p {
+    text-align: center;
+}
+
+.sec5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue;
+}
+
+.help li {
+    color: black;
+    display: block;
+}
+
+.company li {
+    color: black;
+    display: block;
+}
+
+.saved li {
+    color: black;
+    display: block;
+}
